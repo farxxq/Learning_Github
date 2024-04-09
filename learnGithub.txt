@@ -1,9 +1,4 @@
 Trying to learn github...
+_____________________________
 
-______________________________________
-
-we are doing the second commit ...
-
-______________________________________
-
-we are adding a file in the branch file now ...
+This will be my Second Commit
