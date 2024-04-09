@@ -1,2 +1,7 @@
 Making this file to branch it in master...
+
+___________________________________________
+
+Now adding this in the master file as well...(to merge we have added this)
+
 ___________________________________________
