@@ -6,5 +6,5 @@ ______________________________
 
 This will be my 1st Commit in branch ...
 
-This will be my Second Commit and for merging we have solved the conflict as well
+This will be my Second Commit (and for merging we have solved the conflict as well)
 
