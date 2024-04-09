@@ -1,20 +1,5 @@
-At first we are gonna have it on the master branch
+Making this file to branch it in master...
+___________________________________________
 
-____________________________________________________
-
-
-<<<<<<< HEAD
-Now we are making changes in this file to add in the branch (branch1)
-
-
-______________________________________________________
-
-Now we are gonna merge this file to the master branch 
-
-________________________________________________________
-=======
-
-
-____________________________________________________
-
->>>>>>> 858ca43e0a4aaf0be4e7d3ceee59087d4c6fee36
+Now adding this in the master file as well...
+___________________________________________
