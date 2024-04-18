@@ -8,3 +8,32 @@ This will be my 1st Commit in branch ...
 
 This will be my Second Commit (and for merging we have solved the conflict as well)
 
+git init
+
+git add .
+
+git status
+
+git commit -m "first commit"
+
+git remote add origin (link)
+
+git push -u origin (branch_name)
+
+branches:__________________
+
+git branch -M main
+
+git branch -M (branch_name)
+
+git extra commands:
+
+git checkout
+
+git merge
+
+git pull
+
+git clone
+
+
